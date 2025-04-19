@@ -58,9 +58,11 @@ AASTechHub.com is an eCommerce platform designed to facilitate the online buying
 ## Installation
 
 1. Create a new folder inside the `htdocs` folder in the XAMPP directory and name it anything you want (e.g., `AASproject`).
-2. Copy all the files from the repository and paste them inside the folder you just created.
-3. Start **Apache** and **MySQL** in the XAMPP Control Panel.
-4. Open your web browser and go to:
+2. Copy all the files from the repository (except the `shop_db` folder) and paste them inside the folder you just created.
+3. Copy the `shop_db` folder from the repository.
+4. Navigate to the `mysql` folder in the XAMPP directory, open the `data` folder, and paste the `shop_db` folder there.
+5. Start **Apache** and **MySQL** in the XAMPP Control Panel.
+6. Open your web browser and go to:
    - `http://localhost/(FOLDER_NAME)/home.php` to access the user interface (e.g., `http://localhost/AASproject/home.php`).
    - `http://localhost/(FOLDER_NAME)/admin/dashboard.php` to access the admin interface (e.g., `http://localhost/AASproject/admin/dashboard.php`).
 
