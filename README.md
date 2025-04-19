@@ -69,13 +69,6 @@ AASTechHub.com is an eCommerce platform designed to facilitate the online buying
 - Users can register and log in to the platform.
 - Browse the platform for products, add items to the cart or wishlist, and proceed to checkout.
 
-## Contributing
-
-Contributions are not accepted for this project.
-
-## License
-
-This project does not have a license.
 
 ## Contact Information
 
